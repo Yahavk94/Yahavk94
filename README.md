@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi! I'm Yahav Karpel 👨‍💻
 
-<!--
-**Yahavk94/Yahavk94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**
+- Enthusiastic about technology, with a passion for backend development and software engineering.
+- Currently diving into the depths of computer science as a Master's student.
+- Committed to crafting robust and scalable solutions for real-world challenges.
 
-Here are some ideas to get you started:
+🔧 **Tech Stack**
+- Java
+- Spring Framework (Spring Boot)
+- AWS (Amazon Web Services)
+- Openshift
+- Database Management (Couchbase)
+- RESTful APIs
+- Object-Oriented Programming (OOP)
+- Testing (JUnit)
+- Jenkins
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education**
+- Master of Science in Computer Science (In Progress) - Open University
+- Bachelor of Science in Computer Science and Mathematics - Ariel University
+
+💼 **Work Experience**
+- Java Backend Developer | Amdocs
+
+🌱 **Currently Learning**
+- Exploring microservices architecture
+- Deep Learning fundamentals
+
+📫 **Connect with Me**
+- Email - yahavk94@gmail.com
+- LinkedIn - [Yahav Karpel](https://www.linkedin.com/in/yahav-karpel-7673021b8/)
+
+Let's code, learn and build together!
